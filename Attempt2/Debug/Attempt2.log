@@ -1,0 +1,10 @@
+﻿  render.cpp
+e:\computergraphics\attempt2\render.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\computergraphics\attempt2\render.cpp(105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\computergraphics\attempt2\render.cpp(201): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\computergraphics\attempt2\render.cpp(286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\computergraphics\attempt2\render.cpp(287): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\computergraphics\attempt2\render.cpp(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\computergraphics\attempt2\render.cpp(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Attempt2.vcxproj -> E:\ComputerGraphics\Debug\Attempt2.exe
+  Attempt2.vcxproj -> E:\ComputerGraphics\Debug\Attempt2.pdb (Partial PDB)

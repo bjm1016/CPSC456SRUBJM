@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+c:\users\braden\documents\visual studio 2017\projects\computergraphics\computergraphics\stdafx.cpp(5): fatal error C1854: cannot overwrite information formed during creation of the precompiled header in object file: 'c:\users\braden\documents\visual studio 2017\projects\computergraphics\computergraphics\debug\stdafx.obj'
+  square.cpp
+c:\users\braden\downloads\experimentersource\chapter2\square\square.cpp(86): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
